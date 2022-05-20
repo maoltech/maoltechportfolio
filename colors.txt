@@ -1,0 +1,8 @@
+Colors:
+Pink : #e31b6d
+Dark Brown: #252934
+dark blue: #1b242f
+green: #04c2c9
+dark green: #00a1a7 
+grey: #444649
+{Input Box}: #1e242c
